@@ -1,1 +1,4 @@
-# Your code goes here!
+class Dog 
+end
+
+dog= Dog.new
