@@ -1,8 +1,8 @@
 class Dog 
 end
 
-def name
-fido.name = "Fido"
+def name =("Fido")
 end
  
+ def
 fido.name
